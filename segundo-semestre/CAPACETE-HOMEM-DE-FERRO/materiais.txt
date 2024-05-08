@@ -1,0 +1,9 @@
+2 leds RGB
+
+1 servo motor
+
+1 botoes
+
+1 microcontrolador
+
+
